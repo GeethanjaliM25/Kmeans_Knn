@@ -110,11 +110,12 @@ This confirms:
 
 **Geethanjali M**  
 B.E Student | Machine Learning & Web Development Enthusiast  
-India 🇮🇳
+
 
 ---
 
 ---
 
 ⭐ *If you like this project, please give it a star on GitHub!* ⭐
+
 
