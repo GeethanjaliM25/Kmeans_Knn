@@ -16,23 +16,6 @@ To build a machine learning system that:
 
 ---
 
-## 📁 Folder Structure
-
-```bash
-knn_kmeans/
-│
-├── data/
-│   └── data.csv
-│
-├── models/
-│   ├── knn_model.pkl
-│   └── kmeans_model.pkl
-│
-├── src/
-│   └── train_model.py
-│
-├── requirements.txt
-└── README.md
 ```
 
 ---
@@ -131,11 +114,7 @@ India 🇮🇳
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**  
-You are free to use, modify, and distribute it for educational purposes.
-
 ---
 
 ⭐ *If you like this project, please give it a star on GitHub!* ⭐
+
