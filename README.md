@@ -12,7 +12,7 @@ It is built using **Python, Pandas, Scikit-learn, Matplotlib, and Seaborn**.
 To build a machine learning system that:
 - Predicts if a tumor is **Benign (0)** or **Malignant (1)** using **KNN**
 - Groups the data into clusters using **K-Means**
-- Provides analysis, evaluation, and visualization of results
+- Provides analysis, evaluation, and visualization of results.
 
 ---
 
