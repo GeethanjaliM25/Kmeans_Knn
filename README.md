@@ -4,7 +4,6 @@
  
 This project uses **Machine Learning algorithms — K-Nearest Neighbors (KNN) and K-Means clustering** — to analyze and predict breast cancer diagnosis based on medical data. 
 It is built using **Python, Pandas, Scikit-learn, Matplotlib, and Seaborn**.
-
 ---
 
 ## 🚀 Project Objective
