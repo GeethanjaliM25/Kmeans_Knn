@@ -2,7 +2,6 @@
 # 🧠 Breast Cancer Prediction using KNN & K_Means 
 
 
-
 ## 🚀 Project Objective 
 
 To build a machine learning system that:
