@@ -2,7 +2,7 @@
 # 🧠 Breast Cancer Prediction using KNN & K_Means
 
 
-## 🚀 Project Objective 
+## 🚀 Project Objective  
 
 To build a machine learning system that:
 - Predicts if a tumor is **Benign (0)** or **Malignant (1)** using **KNN**
